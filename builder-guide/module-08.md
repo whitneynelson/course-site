@@ -7,7 +7,7 @@
 
 ## Facilitator Notes *(remove or move to course-toolkit before publishing)*
 
-- This moved from Day 3 (where it shared a 90-minute block with Module Builder Part 1) to Day 4, now a standalone 30-minute block that also covers exporting to Canva/Blackboard. Cleaner scope than before — just make sure participants who already set up Calendly pre-event don't spend the full 30 minutes here; point them to the Canva/Blackboard export half early.
+- This moved from Day 3 (where it shared a 90-minute block with Module Builder Part 1) to Day 4, now a standalone 30-minute block that also covers exporting to Canva/Blackboard. Cleaner scope than before; just make sure participants who already set up Calendly pre-event don't spend the full 30 minutes here; point them to the Canva/Blackboard export half early.
 
 ---
 
@@ -25,7 +25,7 @@ Booking link + policy, published.
 
 ## Step 4: Export to Canva & Blackboard
 
-From HPC output to classroom-ready materials — this is where slide decks and other visual materials built in Module 04 get exported for your LMS.
+From HPC output to classroom-ready materials; this is where slide decks and other visual materials built in Module 04 get exported for your LMS.
 
 - If your campus LMS admin confirmed pre-event that Canva–Blackboard LTI is enabled, walk through the export now.
 - If not, note this as a pending item for your 90-day plan (Day 5) rather than blocking on it here.

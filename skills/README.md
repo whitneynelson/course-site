@@ -1,10 +1,10 @@
 # Skills
 
-Reusable `SKILL.md` instructions Claude understands, one folder per Builder Guide module. Together they are **Compass** — the interactive walkthrough that replaces reading the static `builder-guide/module-XX.md` files on your own.
+Reusable `SKILL.md` instructions Claude understands, one folder per Builder Guide module. Together they are **Compass**; the interactive walkthrough that replaces reading the static `builder-guide/module-XX.md` files on your own.
 
 | Skill | Use it to | Feeds |
 |---|---|---|
-| `module-00-01` | Set up your two repos and connect Claude Code — **start here** | environment only |
+| `module-00-01` | Set up your two repos and connect Claude Code; **start here** | environment only |
 | `module-02` | Draft learning outcomes, then build your curriculum map | `course-toolkit/learning-outcomes-map.md`, `course-site/schedule.md` |
 | `module-03` | Draft your syllabus | `course-site/syllabus.md` |
 | `module-04` | Build one module fully: lecture outline, quiz, assignment material | `course-site/modules/module-XX.md`, `course-toolkit/lecture-prep-notes/`, `course-toolkit/quizzes/`, `course-site/resources.md` |
@@ -12,8 +12,8 @@ Reusable `SKILL.md` instructions Claude understands, one folder per Builder Guid
 | `module-06` | Draft your exam scaffold | `course-toolkit/exams/` |
 | `module-07` | *(optional, self-paced)* AI for grading & attendance feedback | `course-toolkit/grading-and-attendance/` |
 | `module-08` | Set up office hours booking + policy | `course-site/office-hours.md` |
-| `module-09` | Pre-publish leak check, then turn on GitHub Pages | — |
-| `module-10` | Reuse this template for your next course or cohort | — |
+| `module-09` | Pre-publish leak check, then turn on GitHub Pages | n/a |
+| `module-10` | Reuse this template for your next course or cohort | n/a |
 
 A `SKILL.md` is a markdown file with a short YAML header (`name`, `description`) followed by step-by-step instructions for an AI assistant to follow in conversation with you. Each one assumes `course-site` and `course-toolkit` are cloned as sibling folders and opened together (see `module-00-01`).
 

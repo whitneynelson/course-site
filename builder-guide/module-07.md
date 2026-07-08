@@ -1,6 +1,6 @@
 # Builder Guide Module 07: AI for Grading & Attendance
 
-**Status: ⚠️ Currently unscheduled.** This session had no confirmed slot in the original agenda (it appeared struck through on Day 4) and doesn't appear anywhere in the latest agenda revision — it's been cut, not just shortened.
+**Status: ⚠️ Currently unscheduled.** This session had no confirmed slot in the original agenda (it appeared struck through on Day 4) and doesn't appear anywhere in the latest agenda revision; it's been cut, not just shortened.
 
 ---
 
@@ -8,10 +8,10 @@
 
 **This needs a decision before Day 1**, since it affects the module numbering people will see all week:
 
-1. **Cut it for real** — remove this module from the Builder Guide entirely and renumber 08→07, 09→08, 10→09. Cleanest option if the content genuinely isn't happening this cohort.
-2. **Keep it as self-paced/optional** — leave the number as-is, mark it "optional, not covered live," and point to it during Day 5's "Using NAIRR Resources Beyond This Week" session as something to explore later.
+1. **Cut it for real**; remove this module from the Builder Guide entirely and renumber 08→07, 09→08, 10→09. Cleanest option if the content genuinely isn't happening this cohort.
+2. **Keep it as self-paced/optional**; leave the number as-is, mark it "optional, not covered live," and point to it during Day 5's "Using NAIRR Resources Beyond This Week" session as something to explore later.
 
-I've left the content below in place and the module number unchanged (Option 2) since renumbering ripples through every other file's cross-references — let me know if you want Option 1 instead and I'll update the numbering across all the other modules too.
+I've left the content below in place and the module number unchanged (Option 2) since renumbering ripples through every other file's cross-references; let me know if you want Option 1 instead and I'll update the numbering across all the other modules too.
 
 ---
 

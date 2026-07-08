@@ -1,7 +1,7 @@
 # Builder Guide Module 06: Exam Scaffold
 
 **Time:** Day 4, 10:45–11:30 AM
-**Feeds:** `course-toolkit/exams/` (midterm-template.md, final-template.md) — stays private
+**Feeds:** `course-toolkit/exams/` (midterm-template.md, final-template.md); stays private
 
 ---
 
@@ -13,11 +13,11 @@
 
 Since not every student in your course may be writing code themselves, consider question types that work for both:
 - **Applied/coding:** "Write a script that..." or "Debug this code..."
-- **Conceptual/HPC-literacy:** "Here's Slurm job output — what happened, and what would you check next?" — testable whether or not the student wrote the original job script.
+- **Conceptual/HPC-literacy:** "Here's Slurm job output; what happened, and what would you check next?"; testable whether or not the student wrote the original job script.
 
 ## Step 3: Build the answer key
 
-Keep it in the same file, clearly separated, or in a linked section — this repo is private, so there's no need to hide it, just keep it organized for your own grading speed later.
+Keep it in the same file, clearly separated, or in a linked section; this repo is private, so there's no need to hide it, just keep it organized for your own grading speed later.
 
 ---
 
