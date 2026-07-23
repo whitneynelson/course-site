@@ -1,13 +1,13 @@
 # Builder Guide Module 10: Reuse This Template
 
-**Time:** Day 5, 10:15–11:00 AM (shared block with Module 09; see facilitator note in Module 09)
+**Time:** Day 5, 10:15–11:00 AM (shared block with Modules 08 and 09; see facilitator note in Module 09)
 **Feeds:** Guidance for reusing this repo structure for your next course, or next year's cohort
 
 ---
 
 ## Facilitator Notes *(remove or move to course-toolkit before publishing)*
 
-- Given the shared 45-minute block with Module 09, this module is written as a shorter guided walkthrough rather than a full hands-on build; the actual "duplicate the repo" action takes 5 minutes; most of the value is in the discussion prompts below.
+- Given the shared 45-minute block with Modules 08 and 09, this module is written as a shorter guided walkthrough rather than a full hands-on build; the actual "duplicate the repo" action takes 5 minutes; most of the value is in the discussion prompts below.
 
 ---
 

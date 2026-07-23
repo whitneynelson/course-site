@@ -1,13 +1,13 @@
 # Builder Guide Module 05: Grading Scale & Rubrics
 
-**Time:** Day 4, 10:15–10:30 AM (15 min)
+**Time:** Day 3, 2:30–3:00 PM (30 min)
 **Feeds:** `course-toolkit/grading-scale.md` + `rubrics/` (includes an AI-use rubric)
 
 ---
 
 ## Facilitator Notes *(remove or move to course-toolkit before publishing)*
 
-- **This got both moved later in the week and cut in half.** Originally Day 3, 12:00–12:30 (30 min); now Day 4, 10:15–10:30 (15 min). Building a grading scale *and* two rubric templates in 15 minutes is tight. Recommend framing this explicitly as "set the direction in-session, finish independently" rather than expecting a complete build; and consider nudging participants to at least skim this module the night before so they're not starting cold.
+- This session got moved from Day 4 onto Day 3, right after the HPC Acclimation block. 30 minutes for a grading scale plus two rubric templates is still tight; framing this explicitly as "set the direction in-session, finish independently" is still the right call, rather than expecting a complete build in the room.
 
 ---
 
@@ -37,5 +37,5 @@ This connects back to Day 1's "What's Safe, What's Not" session; keep that frami
 ## Checkpoint
 
 - [ ] `grading-scale.md` has a weighting scheme
-- [ ] `rubrics/assignment-rubric-template.md` drafted (even roughly; finish independently if the 15 minutes runs out)
+- [ ] `rubrics/assignment-rubric-template.md` drafted (even roughly; finish independently if time runs short)
 - [ ] `rubrics/ai-use-rubric-template.md` drafted with separate criteria for coder vs. non-coder use of Claude

@@ -1,6 +1,6 @@
 # Builder Guide Module 06: Exam Scaffold
 
-**Time:** Day 4, 10:45–11:30 AM
+**Time:** Day 4, 1:30–2:00 PM
 **Feeds:** `course-toolkit/exams/` (midterm-template.md, final-template.md); stays private
 
 ---

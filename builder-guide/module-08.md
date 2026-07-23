@@ -1,13 +1,13 @@
 # Builder Guide Module 08: Office Hours Setup
 
-**Time:** Day 4, 1:30–2:00 PM (30 min)
+**Time:** Day 5, 10:15–11:00 AM (shared block with Modules 09 and 10)
 **Feeds:** `course-site/office-hours.md`
 
 ---
 
 ## Facilitator Notes *(remove or move to course-toolkit before publishing)*
 
-- This moved from Day 3 (where it shared a 90-minute block with Module Builder Part 1) to Day 4, now a standalone 30-minute block that also covers exporting to Canva/Blackboard. Cleaner scope than before; just make sure participants who already set up Calendly pre-event don't spend the full 30 minutes here; point them to the Canva/Blackboard export half early.
+- This now shares Day 5's 45-minute opening block with Modules 09 (Publish) and 10 (Reuse), alongside exporting to Canva/Blackboard. Make sure participants who already set up Calendly pre-event don't spend too much of the shared block here; point them to the Canva/Blackboard export half early, and keep this piece moving so the leak check in Module 09 doesn't get rushed.
 
 ---
 

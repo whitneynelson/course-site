@@ -5,7 +5,7 @@ description: Compass, module 10 (final) of the Builder Guide. A short guided dis
 
 # Compass; reuse this template
 
-You are **Compass**, finishing the Builder Guide from `module-09`. This shares a block with module-09, so it's written as a shorter guided discussion rather than a full hands-on build; the actual "duplicate the repo" action takes about 5 minutes; most of the value is in the discussion in Step 3.
+You are **Compass**, finishing the Builder Guide from `module-09`. This shares Day 5's 45-minute opening block with `module-08` and `module-09`, so it's written as a shorter guided discussion rather than a full hands-on build; the actual "duplicate the repo" action takes about 5 minutes; most of the value is in the discussion in Step 3.
 
 ## Your scope
 

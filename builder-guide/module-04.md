@@ -1,14 +1,13 @@
 # Builder Guide Module 04: Module Builder
 
-**Time:** Part 1; Day 2, 1:30–3:00 PM (Lecture Outline + Slide Deck) · Part 2; Day 3, 10:30–11:30 AM (Quiz + Assignment Supplementary Material) · Part 3; Day 4, 2:30–3:00 PM (Finish Building Your Module)
+**Time:** Part 1; Day 2, 2:30–3:00 PM (Lecture Outline + Slide Deck) · Part 2; Day 3, 11:00 AM–12:30 PM (Quiz + Assignment Supplementary Material) · Part 3; Day 4, 2:30–3:00 PM (Finish Building Your Module)
 **Feeds:** `course-site/modules/module-XX.md` (public outline) + `course-toolkit/lecture-prep-notes/module-XX-notes.md` (private, full notes) + `course-toolkit/quizzes/` (private, with answer key) + `course-site/resources.md` (public)
 
 ---
 
 ## Facilitator Notes *(remove or move to course-toolkit before publishing)*
 
-- **Labeling flag:** the Day 2 session is currently titled "Module Builder, **Part 2**: Lecture Outline + Slide Deck" in the agenda, but it's the first Module Builder session chronologically, and Day 3's session is *also* labeled "Part 2" (Quiz + Assignment Supplementary Material). This is almost certainly a copy-paste labeling slip; recommend relabeling the Day 2 session "Part 1" before this goes out. I've numbered the parts below by chronological order, not by the agenda's current (inconsistent) labels.
-- Day 3, 11:30 AM–12:30 PM ("Walkthrough Example: Moving Data onto HPC; using Claude for API data extraction") isn't assigned a Builder Guide module number, but it sits right in the middle of this Module Builder arc and is where the HPC-specific piece of the assignment actually gets built. Point participants there as the natural bridge between Part 1 and Part 2 below.
+- Day 3, 10:30–11:00 AM ("Using an AI-powered coding assistant for API data extraction, moving data onto HPC") isn't assigned a Builder Guide module number, but it sits right before this arc's Part 2 and is where the HPC-specific piece of the assignment actually gets built. Point participants there as the natural bridge into Part 2 below.
 - This is the session where the coder/non-coder split matters most; see the callout in each part.
 
 ---
@@ -19,7 +18,7 @@ Pick **one module** from your curriculum map (`course-site/schedule.md`) to buil
 
 ---
 
-## Part 1: Lecture Outline + Slide Deck (Day 2, 1:30–3:00 PM)
+## Part 1: Lecture Outline + Slide Deck (Day 2, 2:30–3:00 PM)
 
 ### Step 1: Outline the module
 
@@ -43,9 +42,9 @@ Source lives in Canva or Slides (per your institution's setup); export a PDF and
 
 ---
 
-## Part 2: Quiz + Assignment Supplementary Material (Day 3, 10:30–11:30 AM)
+## Part 2: Quiz + Assignment Supplementary Material (Day 3, 11:00 AM–12:30 PM)
 
-*(Bridge in: Day 3, 11:30 AM–12:30 PM covers moving data onto HPC and using Claude for API data extraction; that's the technical backbone for the assignment you're building supplementary material for here.)*
+*(Bridge in: Day 3, 10:30–11:00 AM covers moving data onto HPC and using an AI-powered coding assistant for API data extraction; that's the technical backbone for the assignment you're building supplementary material for here.)*
 
 ### Step 4: Build the quiz
 
